@@ -3,6 +3,8 @@
 ENSO forecasting. We train neural networks on CESM2 output only, predict the tropical Pacific SST anomaly map, and
 compute the Niño 3.4 index 3 months ahead from the predicted map.
 
+The trained models and a notebook to reproduce our real-world results are shared at https://drive.google.com/drive/folders/1VRB_oDyoytDWkBd3uLjf13LkZYjbjCi6?usp=sharing . Open verify_realworld.ipynb in Google Colab and select Runtime → Run all.
+
 ## Notebooks
 
 | Notebook | Model |
